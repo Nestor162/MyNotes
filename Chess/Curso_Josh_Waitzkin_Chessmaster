@@ -1,0 +1,20 @@
+## Apuntes Curso Josh Waitzkin Chessmaster 11 (Grandmaster Edition)
+
+### Terminología
+
+- **outpost** _(Puesto avanzado o casilla fuerte)_: Casillas en dónde no hay peones enemigos que puedan atacar e idealmente esté defendida por un peón nuestro.
+- **skewer** _(Enfilada)_, **pin** _(Clavada)_ **Rayos X**: una pieza nuestra ataca a dos rivales en la misma línea (fila, columna o diagonal). La pieza más valiosa está delante, y al moverse para salvarse, expone la pieza menos valiosa detrás, la cual es capturada. Es como un "rayo X" que atraviesa la primera pieza para alcanzar la segunda.
+
+> **Diferencia entre clavada y enfilada (clavada inversa)**
+>
+> Enfilada: pieza valiosa delante de menos valiosa.
+> La clavada, en cambio, es una pieza menos valiosa delante de una más valiosa (o el rey).
+
+> **Tipos de Clavada**
+>
+> **Clavada Absoluta** (Absolute Pin): La pieza clavada no puede moverse en absoluto porque el rey está detrás. Moverla sería un movimiento ilegal.
+>
+> **Clavada Relativa** (Relative Pin): La pieza clavada puede moverse, pero hacerlo implicaría perder una pieza de alto valor (como la reina o una torre) que está detrás.
+
+- **fork** _(tenedor Ataque doble (o Horquilla).)_ Una sola pieza (frecuentemente un caballo, pero puede ser cualquier pieza) ataca simultáneamente a dos o más piezas rivales importantes. El oponente no puede salvar todas las piezas, por lo que casi siempre perderá una de ellas.
+-
