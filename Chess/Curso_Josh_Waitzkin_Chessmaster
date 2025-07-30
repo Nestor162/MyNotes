@@ -1,6 +1,8 @@
 ## Apuntes Curso Josh Waitzkin Chessmaster 11 (Grandmaster Edition)
 
-### Terminología
+### Terminología en inglés y en español
+
+- **Zug Zwang**: se dice que un jugador está en zugzwang si cualquier movimiento permitido supone empeorar su situación
 
 - **outpost** _(Puesto avanzado o casilla fuerte)_: Casillas en dónde no hay peones enemigos que puedan atacar e idealmente esté defendida por un peón nuestro.
 - **skewer** _(Enfilada)_, **pin** _(Clavada)_ **Rayos X**: una pieza nuestra ataca a dos rivales en la misma línea (fila, columna o diagonal). La pieza más valiosa está delante, y al moverse para salvarse, expone la pieza menos valiosa detrás, la cual es capturada. Es como un "rayo X" que atraviesa la primera pieza para alcanzar la segunda.
@@ -17,4 +19,9 @@
 > **Clavada Relativa** (Relative Pin): La pieza clavada puede moverse, pero hacerlo implicaría perder una pieza de alto valor (como la reina o una torre) que está detrás.
 
 - **fork** _(tenedor Ataque doble (o Horquilla).)_ Una sola pieza (frecuentemente un caballo, pero puede ser cualquier pieza) ataca simultáneamente a dos o más piezas rivales importantes. El oponente no puede salvar todas las piezas, por lo que casi siempre perderá una de ellas.
--
+
+- **Back Rank Attack/Mate** _(Ataque/Mate del Pasillo)_
+
+- **Discover Attack/Mate** (_Ataque/Mate a la descubierta)_
+
+- **stair stepping** _(ataque en escalera)_
